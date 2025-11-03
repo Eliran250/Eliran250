@@ -94,7 +94,9 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 
 ---
 
-📫 Contact Me: [elirangiladi250@gmail.com](mailto:elirangiladi250@gmail.com)
+📫 Contact Me: 
+![Email](https://img.shields.io/badge/Email-elirangiladi250@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)
+![Linkedin](https://img.shields.io/badge/Email-elirangiladi250@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
