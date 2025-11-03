@@ -94,10 +94,4 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 
 ---
 
-📫 Contact Me: 
-![Email](https://img.shields.io/badge/Email-elirangiladi250@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)
-![Linkedin](https://img.shields.io/badge/Email-elirangiladi250@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)
-
----
-
 ⭐ *“I’m always striving to build scalable, elegant, and efficient software solutions.”*
