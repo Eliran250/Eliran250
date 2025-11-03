@@ -2,7 +2,7 @@
 <div align="center">
   
 # 💻 Eliran Giladi — Full Stack Developer
-גג
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -84,5 +84,14 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 📚 Continuously learning and improving through modern best practices  
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliranGiladi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliranGiladi&layout=compact&theme=radical" />
+</div>
+
+--
 
 ⭐ *“I’m always striving to build scalable, elegant, and efficient software solutions.”*
