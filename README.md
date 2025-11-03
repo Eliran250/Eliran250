@@ -92,6 +92,6 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliran250&layout=compact&theme=radical" />
 </div>
 
---
+---
 
 ⭐ *“I’m always striving to build scalable, elegant, and efficient software solutions.”*
