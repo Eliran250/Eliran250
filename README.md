@@ -94,4 +94,8 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 
 ---
 
+📫 Contact Me: [elirangiladi250@gmail.com](mailto:elirangiladi250@gmail.com)
+
+---
+
 ⭐ *“I’m always striving to build scalable, elegant, and efficient software solutions.”*
