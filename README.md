@@ -88,8 +88,8 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliranGiladi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliranGiladi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eliran250&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliran250&layout=compact&theme=radical" />
 </div>
 
 --
