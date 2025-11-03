@@ -1,16 +1,37 @@
-## Hi there 👋
+# 💻 Full Stack Developer  
 
-<!--
-**Eliran250/Eliran250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced and knowledgeable **Full Stack Developer** with a strong background in both **frontend** and **backend** development.  
+Skilled in designing, developing, and deploying modern web applications using a wide range of technologies.  
+Passionate about **clean code**, **performance optimization**, and delivering **high-quality user experiences**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills  
+
+**Frontend:**  
+💡 HTML • CSS • SCSS • JavaScript • TypeScript • React.js • Tailwind CSS • Nest.js  
+
+**Backend:**  
+⚙️ Node.js • Express.js • Python (for scripting, automation, and server-side logic) • REST APIs  
+
+**Databases:**  
+🗄️ MongoDB • MySQL • Elastic • AWS S3  
+
+**Tools & DevOps:**  
+🧰 Git • GitHub • Docker • VS Code • Postman • PyCharm  
+
+**Other:**  
+📐 Strong understanding of **software architecture**, **MVC pattern**, and **Agile methodologies**
+
+---
+
+## 🚀 Highlights  
+
+✅ Built and maintained **full-stack applications from scratch**  
+🐍 Proficient in **Python**, with hands-on experience in writing clean and efficient backend and automation code  
+🔒 Focused on **performance**, **security**, and **scalability**  
+📚 Continuously learning new technologies and best practices  
+
+---
+
+⭐ *Always striving to build scalable, elegant, and efficient software solutions.*
