@@ -18,7 +18,7 @@ Passionate about **clean code**, **performance optimization**, and delivering **
 🗄️ MongoDB • MySQL • Elastic • AWS S3  
 
 **Tools & DevOps:**  
-🧰 Git • GitHub • Docker • VS Code • Postman • PyCharm  
+🧰 Git • GitHub • Docker • VS Code • Postman • PyCharm  • OpenShift  • Intllij
 
 **Other:**  
 📐 Strong understanding of **software architecture**, **MVC pattern**, and **Agile methodologies**
