@@ -12,13 +12,13 @@ Passionate about **clean code**, **performance optimization**, and delivering **
 💡 HTML • CSS • SCSS • JavaScript • TypeScript • React.js • Tailwind CSS • Nest.js  
 
 **Backend:**  
-⚙️ Node.js • Express.js • Python (for scripting, automation, and server-side logic) • REST APIs  
+⚙️ Node.js • Express.js • Python • REST APIs • NestJs  
 
 **Databases:**  
 🗄️ MongoDB • MySQL • Elastic • AWS S3  
 
 **Tools & DevOps:**  
-🧰 Git • GitHub • Docker • VS Code • Postman • PyCharm  • OpenShift  • Intllij
+🧰 Git • GitHub • Docker • VS Code • Postman • PyCharm • OpenShift • Intllij
 
 **Other:**  
 📐 Strong understanding of **software architecture**, **MVC pattern**, and **Agile methodologies**
