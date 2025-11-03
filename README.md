@@ -14,7 +14,7 @@ I love building clean, performant, and user-friendly applications using modern t
 ⚙️ Node.js • Express.js • Python • REST APIs • NestJS  
 
 **Databases:**  
-🗄️ MongoDB • MySQL • Kibana • ElasticSearch • AWS S3  
+🗄️ MongoDB • MySQL • Kibana • ElasticSearch • Grafana  • AWS S3  
 
 **DevOps & Tools:**  
 🧰 Git • GitHub • Docker • VS Code • Postman • PyCharm • IntelliJ • OpenShift  
@@ -33,4 +33,4 @@ I love building clean, performant, and user-friendly applications using modern t
 
 ---
 
-⭐ *"Always striving to build scalable, elegant, and efficient software solutions."*  
+⭐ *"Im always striving to build scalable, elegant, and efficient software solutions."*  
