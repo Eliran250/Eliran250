@@ -17,7 +17,7 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-💡 HTML • CSS • SCSS • JavaScript • TypeScript • React.js • Tailwind CSS • Nest.js  
+💡 HTML • CSS • SCSS • JavaScript • TypeScript • React.js • Tailwind
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -26,7 +26,6 @@ I enjoy creating clean, performant, and user-friendly applications using modern 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Backend:**  
 ⚙️ Node.js • Express.js • Python • REST APIs • NestJS  
